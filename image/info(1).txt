@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Rubik-Bold
+font link: https://fonts.google.com/specimen/Rubik
+font author: Hubert and Fischer
+font author site: http://hubertfischer.com/
+
+
+icon designer: Vicons Design
+icon designer link: /ViconsDesign
+        
+{"bg":"#3288AF","font":"#EBE3D5","icon":"#EBE3D5","slogan":"#fff7e9"}
+      
