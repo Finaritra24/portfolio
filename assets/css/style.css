@@ -474,6 +474,14 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+.resume {
+  width: 100%;
+}
+
+.resume .container {
+  margin: auto;
+}
+
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
